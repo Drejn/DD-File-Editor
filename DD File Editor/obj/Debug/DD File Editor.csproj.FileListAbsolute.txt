@@ -1,0 +1,12 @@
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Debug\DD File Editor.csprojAssemblyReference.cache
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Debug\DD_File_Editor.Form1.resources
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Debug\DD_File_Editor.Properties.Resources.resources
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Debug\DD File Editor.csproj.GenerateResource.cache
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Debug\DD File Editor.csproj.CoreCompileInputs.cache
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\bin\Debug\DD File Editor.exe.config
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\bin\Debug\DD File Editor.exe
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\bin\Debug\DD File Editor.pdb
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Debug\DD File Editor.exe
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Debug\DD File Editor.pdb
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\bin\Debug\Newtonsoft.Json.dll
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Debug\DD File Editor.csproj.CopyComplete
