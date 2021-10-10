@@ -1,6 +1,6 @@
 # DD File Editor
 
-Unofficial tool to edit .dungeondraft_map files
+Unofficial tool for Dungeondraft to edit .dungeondraft_map files
 
 # License
 
