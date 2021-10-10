@@ -35,9 +35,10 @@ namespace DD_File_Editor
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
-            this.Layout_Properties = new System.Windows.Forms.FlowLayoutPanel();
+            this.LayoutPanel = new System.Windows.Forms.FlowLayoutPanel();
             this.label3 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.colorDialog1 = new System.Windows.Forms.ColorDialog();
+            this.btn_Repack = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // TreeView
@@ -46,6 +47,7 @@ namespace DD_File_Editor
             this.TreeView.Name = "TreeView";
             this.TreeView.Size = new System.Drawing.Size(166, 583);
             this.TreeView.TabIndex = 0;
+            this.TreeView.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.TreeView_AfterSelect);
             // 
             // b_load_dd_file
             // 
@@ -59,7 +61,7 @@ namespace DD_File_Editor
             // 
             // l_dd_file_path
             // 
-            this.l_dd_file_path.Location = new System.Drawing.Point(164, 35);
+            this.l_dd_file_path.Location = new System.Drawing.Point(167, 47);
             this.l_dd_file_path.Name = "l_dd_file_path";
             this.l_dd_file_path.ReadOnly = true;
             this.l_dd_file_path.Size = new System.Drawing.Size(518, 22);
@@ -68,7 +70,7 @@ namespace DD_File_Editor
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(164, 13);
+            this.label1.Location = new System.Drawing.Point(164, 24);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(115, 17);
             this.label1.TabIndex = 3;
@@ -87,13 +89,14 @@ namespace DD_File_Editor
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
             // 
-            // Layout_Properties
+            // LayoutPanel
             // 
-            this.Layout_Properties.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.Layout_Properties.Location = new System.Drawing.Point(203, 120);
-            this.Layout_Properties.Name = "Layout_Properties";
-            this.Layout_Properties.Size = new System.Drawing.Size(883, 583);
-            this.Layout_Properties.TabIndex = 5;
+            this.LayoutPanel.AutoScroll = true;
+            this.LayoutPanel.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.LayoutPanel.Location = new System.Drawing.Point(203, 120);
+            this.LayoutPanel.Name = "LayoutPanel";
+            this.LayoutPanel.Size = new System.Drawing.Size(883, 583);
+            this.LayoutPanel.TabIndex = 5;
             // 
             // label3
             // 
@@ -104,24 +107,28 @@ namespace DD_File_Editor
             this.label3.TabIndex = 6;
             this.label3.Text = "Configuration Editor";
             // 
-            // button1
+            // colorDialog1
             // 
-            this.button1.Location = new System.Drawing.Point(785, 35);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(109, 45);
-            this.button1.TabIndex = 7;
-            this.button1.Text = "Load DD File";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.colorDialog1.AnyColor = true;
+            // 
+            // btn_Repack
+            // 
+            this.btn_Repack.Location = new System.Drawing.Point(989, 17);
+            this.btn_Repack.Name = "btn_Repack";
+            this.btn_Repack.Size = new System.Drawing.Size(97, 59);
+            this.btn_Repack.TabIndex = 8;
+            this.btn_Repack.Text = "Repack";
+            this.btn_Repack.UseVisualStyleBackColor = true;
+            this.btn_Repack.Click += new System.EventHandler(this.btn_Repack_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1120, 715);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btn_Repack);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.Layout_Properties);
+            this.Controls.Add(this.LayoutPanel);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.l_dd_file_path);
@@ -142,9 +149,10 @@ namespace DD_File_Editor
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
-        private System.Windows.Forms.FlowLayoutPanel Layout_Properties;
+        private System.Windows.Forms.FlowLayoutPanel LayoutPanel;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.ColorDialog colorDialog1;
+        private System.Windows.Forms.Button btn_Repack;
     }
 }
 

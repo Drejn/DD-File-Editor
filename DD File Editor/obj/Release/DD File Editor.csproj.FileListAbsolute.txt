@@ -1,0 +1,14 @@
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\bin\Release\DD File Editor.exe.config
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\bin\Release\DD File Editor.exe
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\bin\Release\DD File Editor.pdb
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\bin\Release\Cyotek.Windows.Forms.ColorPicker.dll
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\bin\Release\Newtonsoft.Json.dll
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\bin\Release\Cyotek.Windows.Forms.ColorPicker.xml
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Release\DD File Editor.csprojAssemblyReference.cache
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Release\DD_File_Editor.Form1.resources
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Release\DD_File_Editor.Properties.Resources.resources
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Release\DD File Editor.csproj.GenerateResource.cache
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Release\DD File Editor.csproj.CoreCompileInputs.cache
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Release\DD File Editor.csproj.CopyComplete
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Release\DD File Editor.exe
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Release\DD File Editor.pdb
