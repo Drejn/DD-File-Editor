@@ -9,7 +9,7 @@ This software uses Third Party Libraries that are distributed under their own te
 
 Specifically:
 
-Cyotek.Windows.Forms.ColorPicker Library
-https://github.com/cyotek/Cyotek.Windows.Forms.ColorPicker
+Cyotek.Windows.Forms.ColorPicker Library<br>
+https://github.com/cyotek/Cyotek.Windows.Forms.ColorPicker<br>
 Copyright © 2013-2017 Cyotek Ltd.
 MIT License
