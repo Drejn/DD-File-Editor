@@ -47,6 +47,7 @@ public class Editor_State
     public Scatter_Tags_Memory scatter_tags_memory { get; set; }
     public Object_Library_Memory object_library_memory { get; set; }
     public Scatter_Library_Memory scatter_library_memory { get; set; }
+    public PathLibraryMemory path_library_memory { get; set; }
     public bool sharpen_fonts { get; set; }
 
 }
@@ -99,6 +100,12 @@ public class Scatter_Library_Memory
     public float search_strictness { get; set; }
 }
 
+public class PathLibraryMemory
+{
+    public double scroll { get; set; }
+    public string[] selected { get; set; }
+    public double search_strictness { get; set; }
+}
 
 /// <summary>
 /// Contains Info about the installed asset packs installed
@@ -316,7 +323,7 @@ public class Pattern
     public string color { get; set; }
     public bool outline { get; set; }
     public string texture { get; set; }
-    public int rotation { get; set; }
+    public float rotation { get; set; }
     public string node_id { get; set; }
 }
 
@@ -369,6 +376,7 @@ public class Wall
 public class Water
 {
     public bool disable_border { get; set; }
+    public Tree tree { get; set; }
 }
 
 public class Roofs

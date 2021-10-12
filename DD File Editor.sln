@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DD File Editor", "DD File Editor\DD File Editor.csproj", "{5F537704-77D6-43BC-A464-FAAA493D47DE}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DD File Editor Setup", "DD File Editor Setup\DD File Editor Setup.vdproj", "{2156179F-9CE4-446C-96BB-4837A13B560D}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DD File Editor Setup", "DD File Editor Setup\DD File Editor Setup.vdproj", "{31F54E43-9FAA-49E3-BB90-816A44FF8140}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,8 +17,8 @@ Global
 		{5F537704-77D6-43BC-A464-FAAA493D47DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F537704-77D6-43BC-A464-FAAA493D47DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F537704-77D6-43BC-A464-FAAA493D47DE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2156179F-9CE4-446C-96BB-4837A13B560D}.Debug|Any CPU.ActiveCfg = Debug
-		{2156179F-9CE4-446C-96BB-4837A13B560D}.Release|Any CPU.ActiveCfg = Release
+		{31F54E43-9FAA-49E3-BB90-816A44FF8140}.Debug|Any CPU.ActiveCfg = Debug
+		{31F54E43-9FAA-49E3-BB90-816A44FF8140}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
