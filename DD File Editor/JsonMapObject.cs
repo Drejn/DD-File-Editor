@@ -268,6 +268,13 @@ public class Light
 
     public string node_id { get; set; }
 
+    Light()
+    {
+        if(texture == null)
+        {
+            texture = "<Missing Texture>";
+        }
+    }
 }
 
 
@@ -290,6 +297,14 @@ public class Object
     public string custom_color { get; set; }
 
     public string node_id { get; set; }
+
+    Object()
+    {
+        if (texture == null)
+        {
+            texture = "<Missing Texture>";
+        }
+    }
 }
 
 
@@ -309,6 +324,14 @@ public class Path
     public bool shrink { get; set; }
     public bool loop { get; set; }
     public string node_id { get; set; }
+
+    Path()
+    {
+        if (texture == null)
+        {
+            texture = "<Missing Texture>";
+        }
+    }
 }
 
 
@@ -325,6 +348,15 @@ public class Pattern
     public string texture { get; set; }
     public float rotation { get; set; }
     public string node_id { get; set; }
+
+    Pattern()
+    {
+        if(texture == null)
+        {
+            texture = "<Missing Texture>";
+        }
+    }
+
 }
 
 public class Shapes

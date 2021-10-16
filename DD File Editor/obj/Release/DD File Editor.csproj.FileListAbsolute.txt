@@ -12,3 +12,4 @@ D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Release\DD File 
 D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Release\DD File Editor.csproj.CopyComplete
 D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Release\DD File Editor.exe
 D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Release\DD File Editor.pdb
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Release\DD_File_Editor.ListItem.resources
