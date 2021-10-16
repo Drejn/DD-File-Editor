@@ -1,6 +1,15 @@
 # DD File Editor
 
-Unofficial tool for Dungeondraft to edit .dungeondraft_map files
+Unofficial tool for Dungeondraft to edit .dungeondraft_map files<br>
+
+The tool was inspired by Zephyr, from Baileywiki youtube channel
+
+
+[![IMAGE Dungeondraft Advanced Tutorial: Hacking Dungeondraft with Text Editor](https://img.youtube.com/vi/JAGKi0A7DJI/0.jpg)](https://www.youtube.com/watch?v=JAGKi0A7DJI)
+
+<br>
+
+The tool aims to make editing the file easier and more intuitive
 
 # License
 
