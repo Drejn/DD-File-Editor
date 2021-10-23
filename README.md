@@ -13,6 +13,11 @@ The tool aims to make editing the file easier and more intuitive
 
 # License
 
+
+This software is provided under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) <br>
+https://creativecommons.org/licenses/by-nc-sa/4.0/<br>
+<br>
+<br>
 This software uses Third Party Libraries that are distributed under their own terms<br>
 (See LICENSE-3RD-PARTY-MIT.TXT and LICENSE-3RD-PARTY-CC-BY.TXT)<br>
 <br>
