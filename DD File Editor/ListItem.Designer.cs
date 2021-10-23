@@ -79,6 +79,7 @@ namespace DD_File_Editor
             this.dgv_data.Size = new System.Drawing.Size(907, 481);
             this.dgv_data.TabIndex = 0;
             this.dgv_data.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgv_data_CellContentClick);
+            
             // 
             // rdb_levelname
             // 

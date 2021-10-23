@@ -12,3 +12,4 @@ D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\bin\Debug\Newtonsoft
 D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Debug\DD File Editor.csproj.CopyComplete
 D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\bin\Debug\Cyotek.Windows.Forms.ColorPicker.dll
 D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\bin\Debug\Cyotek.Windows.Forms.ColorPicker.xml
+D:\Documenti\Dungeondraft\Dev\DD File Editor\DD File Editor\obj\Debug\DD_File_Editor.ListItem.resources

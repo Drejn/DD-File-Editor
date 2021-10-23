@@ -280,6 +280,7 @@ public class Light
 
 public class Materials
 {
+    public Dictionary<string, object> materials { get; set; }
 }
 
 
@@ -293,9 +294,7 @@ public class Object
     public int layer { get; set; }
     public bool shadow { get; set; }
     public bool block_light { get; set; }
-    
     public string custom_color { get; set; }
-
     public string node_id { get; set; }
 
     Object()
@@ -442,7 +441,7 @@ public class Tree
     public bool is_open { get; set; }
     public string deep_color { get; set; }
     public string shallow_color { get; set; }
-    public int blend_distance { get; set; }
+    public float blend_distance { get; set; }
     public Child[] children { get; set; }
 }
 
@@ -455,6 +454,6 @@ public class Child
     public bool is_open { get; set; }
     public string deep_color { get; set; }
     public string shallow_color { get; set; }
-    public int blend_distance { get; set; }
+    public float blend_distance { get; set; }
     public object[] children { get; set; }
 }
